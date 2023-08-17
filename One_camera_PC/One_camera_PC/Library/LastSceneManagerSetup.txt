@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Multi_camera_user.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
